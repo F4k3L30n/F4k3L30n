@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @F4k3L30n
+- 👋 Hi, I’m @F4k3L30n [RU]
 - 👀 I’m interested in Python, C / C++
 - 🌱 I’m currently learning reverse-engineering
 - 📫 How to reach me: discord Deleted User 0x001#7566
